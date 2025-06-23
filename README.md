@@ -1,5 +1,19 @@
 # Penetration Testing Toolkit
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : M.S.MEYSINTHA
+
+*INTERN ID*: CT04DG1840
+
+*DOMAIN*: CYBERSECURITY AND ETHICAL HACKING
+
+*DURATION* : 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+## description
+
 ## Modules
 1. **Port Scanner** - Scans ports 1-99 for open services.
 2. **Brute Forcer** - Simulated dictionary attack.
